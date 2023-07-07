@@ -27,8 +27,8 @@ Users should be able to:
 ![Alt text](<result-card-mobile size.PNG>)
 ### Links
 
-- Live Site URL: [https://viiniscript.github.io/results-summary-component/](https://viiniscript.github.io/results-summary-component/)
-
+- Live Site URL:[ [https://viiniscript.github.io/results-summary-component/](https://viiniscript.github.io/results-summary-component/)
+](https://yaditya007.github.io/Results-Summary-Component-Main/)
 ## My process
 
 ### Built with
