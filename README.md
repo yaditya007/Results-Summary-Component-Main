@@ -40,4 +40,4 @@ Users should be able to:
 ## Author
 
 - Website - 
-- Frontend Mentor - https://www.frontendmentor.io/profile/yaditya007
+- Frontend Mentor - https://www.frontendmentor.io/profile/yaditya007# Results-Summary-Component-Main
