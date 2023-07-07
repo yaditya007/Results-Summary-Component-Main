@@ -23,9 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots/screenshot-Results-summary-component.png)
-![](./screenshots/screenshot_iPhone-6-7-8plus.png)
-
+![Alt text](<result card.PNG>)
+![Alt text](<result-card-mobile size.PNG>)
 ### Links
 
 - Live Site URL: [https://viiniscript.github.io/results-summary-component/](https://viiniscript.github.io/results-summary-component/)
@@ -40,5 +39,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Vinicius Pimentel](https://www.my-future-website.com)
-- Frontend Mentor - [@viiniScript](https://www.frontendmentor.io/profile/viiniScript)
+- Website - 
+- Frontend Mentor - https://www.frontendmentor.io/profile/yaditya007
